@@ -1,8 +1,53 @@
-![monitorranker](https://github.com/user-attachments/assets/c073d9cf-ab58-4152-b334-1a62adac5bc3)
-
 # 显示器天梯图生成器（MonitorRanker）
+![monitorranker](https://github.com/user-attachments/assets/dc2c5eed-fe34-4468-af8e-0040f8f3615f)
 
 本软件旨在帮助用户从CSV（逗号分隔值）文件中轻松加载显示器性能数据，并生成专业、美观、高度可定制的“天梯图”（横向条形排行榜），用于直观比较和展示显示器的各项性能指标。
+
+## 软件截图
+下面通过一些截图来展示软件的主要界面和功能：
+### 1. 主界面与数据加载
+软件启动并加载CSV数据后，您可以选择不同的指标来查看对应的天梯图。
+
+![主界面-已加载数据](https://github.com/user-attachments/assets/9ce67d92-82a2-4aea-9ac2-5ac2bc579ca6)
+
+### 2. 指标选择与图表自定义
+您可以方便地从下拉列表中选择要分析的显示器指标，并根据需求调整配色、排序逻辑、单位以及是否显示详细信息。
+
+![指标选择与自定义控件](https://github.com/user-attachments/assets/ee19cf64-102a-4215-b325-04286f9ae9a4)
+
+*(上图展示了指标选择下拉框、配色方案、排序逻辑、单位输入框和“显示尺寸和分辨率”复选框)*
+
+### 3. 图表显示效果
+图表会清晰地展示各显示器在选定指标下的排名、具体数值以及相关信息。
+![MPRT运动响应时间天梯榜](https://github.com/user-attachments/assets/a0ea967d-6e19-4f86-a646-a4cbe9d34f46)
+
+
+**详细视图:**
+![图表详细视图](https://github.com/user-attachments/assets/1f7ab66f-675d-42b0-a48a-3aea5007b56f)
+
+*(上图显示了勾选“显示尺寸和分辨率”后的效果，额外展示了尺寸和分辨率信息，行高也相应调整)*
+
+**预设多种MD主题:**
+![Pink&Cyan](https://github.com/user-attachments/assets/15698677-56b0-4099-8c25-8b083678dec6)
+
+*(上图显示了Pink&Cyan主题的风格，内置多种MD主题可选)*
+
+**浅色模式切换:**
+![image](https://github.com/user-attachments/assets/b87dc5c5-aed9-4d27-8b1b-f46cb3b4cd84)
+
+*(上图显示了浅色模式排版，导出PNG的配色同样受到影响)*
+
+### 4. 导出功能
+您可以轻松地将当前图表或所有图表导出为PNG图片。
+
+![导出功能按钮](https://github.com/user-attachments/assets/a1272f22-2b35-4a61-a1f5-3709da432eed)
+
+选择“导出全部PNG”后，程序会提示您选择一个文件夹来保存所有生成的图片。
+
+### 5. 最终导出PNG示例
+以下是由本软件导出的PNG图片示例，具有较高的清晰度和固定的排版。
+
+![导出PNG示例](https://github.com/user-attachments/assets/bf4f2883-7b6f-48e9-9f1a-0420a5afaed1)
 
 ## 主要功能
 
