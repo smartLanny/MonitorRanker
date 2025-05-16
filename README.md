@@ -1,4 +1,4 @@
-![Uploading monitorranker.png…]()
+![monitorranker](https://github.com/user-attachments/assets/c073d9cf-ab58-4152-b334-1a62adac5bc3)
 
 # 显示器天梯图生成器（MonitorRanker）
 
